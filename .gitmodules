@@ -1,3 +1,4 @@
 [submodule "chronos"]
   path = chronos
-  url = https://github.com/mesos/chronos.git
+  url = https://github.com/krux/chronos.git
+  branch = our-patches
